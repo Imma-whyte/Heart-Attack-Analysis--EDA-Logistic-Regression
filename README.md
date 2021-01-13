@@ -1,27 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](image1.gif)
 
 ### Health care: Heart attack possibility in Cleveland patients
 
@@ -37,6 +14,9 @@ The data source is from Cleveland area hospitals, available on Kaggle, and the d
 
 Link: https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
 
+Here's is a table that contains all variables included in the data set and their description
+
+![](table1.PNG)
 
 
 ##### Model and Analysis:
