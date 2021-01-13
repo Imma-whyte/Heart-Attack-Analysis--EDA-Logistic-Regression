@@ -1,6 +1,6 @@
 ![](image1.gif)
 
-### Health care: Heart attack possibility in Cleveland patients
+## Health care: Heart attack possibility in Cleveland patients
 
 
 ##### Introduction:
@@ -14,7 +14,7 @@ The data source is from Cleveland area hospitals, available on Kaggle, and the d
 
 Link: https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
 
-Here's is a table that contains all variables included in the data set and their description
+Here's is a table that contains all fourteen variables included in the data set and their description
 
 ![](table1.PNG)
 
@@ -22,8 +22,7 @@ Here's is a table that contains all variables included in the data set and their
 ##### Model and Analysis:
 
 
-A model was created which included thirteen variables and the target. A list of all fourteen variables is given below in table 1. A logic regression analysis was performed to determine which variables are the best indicators to predict a heart attack. A total of two runs were completed. The model was evaluated using the pseudo r-squared, statistical accuracy, MCC, precision, recall, specificity, f-score, confusion matrix, Receiver Operating Characteristic (ROC) and Area Under Curve (AUC). This model was also then used to history match and predict number of heart attacks in patients check for reliability of the model again.
-
+A model was created which included thirteen variables and the target. A logic regression analysis was performed to determine which variables are the best indicators to predict a heart attack. The model was evaluated using the pseudo r-squared, statistical accuracy, MCC, precision, recall, specificity, f-score, confusion matrix, Receiver Operating Characteristic (ROC) and Area Under Curve (AUC). 
 
 
 
