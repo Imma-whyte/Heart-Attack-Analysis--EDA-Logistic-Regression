@@ -22,7 +22,7 @@ Here's is a table that contains all fourteen variables included in the data set 
 
 ##### Model and Analysis:
 
-A logistic regression model was fit using all the variables. In terms of variable selection, backward elimination strategy was employed to to determine which variables are the best indicators to predict a heart attack. The model was evaluated using the pseudo r-squared, statistical accuracy, MCC, precision, recall, specificity, f-score, confusion matrix, Receiver Operating Characteristic (ROC) and Area Under Curve (AUC). 
+A logistic regression model was fit using all the variables. In terms of variable selection, backward elimination strategy was employed to determine which variables are the best indicators of a heart attack. The model was evaluated using the pseudo r-squared, statistical accuracy, MCC, precision, recall, specificity, f-score, confusion matrix, Receiver Operating Characteristic (ROC) and Area Under Curve (AUC). 
 
 
 
