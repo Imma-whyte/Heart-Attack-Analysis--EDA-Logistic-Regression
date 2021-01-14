@@ -1,6 +1,7 @@
 ![](image1.gif)
 
 ## Health care: Heart attack possibility in Cleveland patients
+Immaculate Ezeogbo, Cassidy Fitzpatrick, Hardeep Gill, Muhammad Junaid Saumtally, Xiaoxi Man, Yasser Khan
 
 
 ##### Introduction:
