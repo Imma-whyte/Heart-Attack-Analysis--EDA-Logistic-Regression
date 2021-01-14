@@ -6,7 +6,7 @@ Immaculate Ezeogbo, Cassidy Fitzpatrick, Hardeep Gill, Muhammad Junaid Saumtally
 
 ##### Introduction:
 
-According to the ![Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/heartdisease/facts.htm/), a heart attack happens every 40 seconds in the United States, making it a leading cause of death among patients. More than 805,000 Americans have a heart attack every year, and in most cases, patients suffer from recurrent heart attacks. Therefore, it is important to understand the leading factors of a heart attack in order to detect and prevent heart attacks.
+According to the ['Centers for Disease Control and Prevention (CDC)'](https://www.cdc.gov/heartdisease/facts.htm/) , a heart attack happens every 40 seconds in the United States, making it a leading cause of death among patients. More than 805,000 Americans have a heart attack every year, and in most cases, patients suffer from recurrent heart attacks. Therefore, it is important to understand the leading factors of a heart attack in order to detect and prevent heart attacks.
 
 
 ##### Data Source:
